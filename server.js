@@ -122,5 +122,5 @@ app.get("/commits", async function (req, res) {
 });
 
 app.listen(4000, function () {
-  console.log("Server running in 4000");
+  console.log("Server running In 4000");
 });
